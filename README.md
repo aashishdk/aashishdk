@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aashish Dhakal.
-- 👀 I’m interested in Full stack developer.
-- 🌱 I’m currently learning HTML,CSS,Js and React. 
+- 👀 I’m interested in Data Engineering.
+- 🌱 I’m currently learning ETL, Pyspark, and Airflow. 
 - 📫 You can reach me by https://www.linkedin.com/in/dkaashish/
 
 <!---
