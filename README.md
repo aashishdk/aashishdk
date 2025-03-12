@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aashish Dhakal.
 - 👀 I’m interested in Data Engineering.
-- 🌱 I’m currently learning ETL, Pyspark, and Airflow. 
+- 🌱 I’m currently learning ETL, Pyspark, Apache Airflow and Apache Kafka. 
 - 📫 You can reach me by https://www.linkedin.com/in/dkaashish/
 
 <!---
